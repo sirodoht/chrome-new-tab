@@ -1,0 +1,9 @@
+{
+    "name": "Empty new tab page",
+    "version": "1.0",
+    "description": "Makes the new tab page empty for non-distracting purposes",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "manifest_version": 2
+}
